@@ -1,2 +1,2 @@
 Es una pagina restaurante diseñada con react y vite 
-utilizando html, css, hooks
+utilizando html, css, hooks, use state, props
