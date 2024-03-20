@@ -1,2 +1,2 @@
-Es una pagina restaurante diseñada con react y vite 
-utilizando html, css, hooks, use state, props
+PROYECTO 4: Aplicación "Restaurante" 
+En este proyecto se desarrollo una aplicación web utilizando react 
