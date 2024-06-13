@@ -1,4 +1,4 @@
-![Logo del Proyecto](https://github.com/Edelabarra017/Restaurante-/assets/146544229/e09a8af4-1caa-4acf-b854-de3155477468)
+![Logo del Proyecto](https://github.com/Edelabarra017/Restaurante-/assets/146544229/e57012be-0ab1-429e-997f-428b408c7028)
 
 En este proyecto se realizo una aplicación que cuenta con la presentación de un restaurante, su menú, horarios, información de contacto, desarrollado con React, Vite, Hooks, CSS para el aspecto visual de componentes, Cloud Firestore para el manejo de datos. 
 
